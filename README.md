@@ -1,6 +1,8 @@
 # ngstarter-gzip-tasks
 Gzipped build and serve for your Angular 2 Starter
 
+Perfect for tracking your build size with gzip compression :heart:
+
 ## Getting started
 1. Install the extension
     ```bash
