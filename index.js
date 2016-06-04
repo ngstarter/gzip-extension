@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var bs = require('browser-sync');
 var middlewareCreate  = require('connect-gzip-static');
-var config = require('../../gulp.config')();
+var config = require('../../../gulp.config')();
 var gzip = require('gulp-gzip');
 var runSequence = require('run-sequence');
 

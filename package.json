@@ -1,6 +1,6 @@
 {
-  "name": "ngstarter-gzip-tasks",
-  "version": "1.0.0-rc.0",
+  "name": "@ngstarter/gzip-extension",
+  "version": "1.0.0-rc.1",
   "description": "Gzipped build and serve for your Angular 2 Starter",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngstarter/ngstarter-gzip-tasks.git"
+    "url": "git+https://github.com/ngstarter/gzip-extension.git"
   },
   "keywords": [
     "angular2",
     "gzip",
-    "angular2starter"
+    "angular2starter",
+    "extension"
   ],
   "author": "Antony Budianto <antonybudianto@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ngstarter/ngstarter-gzip-tasks/issues"
+    "url": "https://github.com/ngstarter/gzip-extension/issues"
   },
-  "homepage": "https://github.com/ngstarter/ngstarter-gzip-tasks#readme",
+  "homepage": "https://github.com/ngstarter/gzip-extension#readme",
   "dependencies": {
     "gulp-gzip": "^1.3.0",
     "connect-gzip-static": "^1.0.0"

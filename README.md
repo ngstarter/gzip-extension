@@ -1,4 +1,4 @@
-# ngstarter-gzip-tasks
+# gzip-extension
 Gzipped build and serve for your Angular 2 Starter
 
 Perfect for tracking your build size with gzip compression :heart:
@@ -8,12 +8,12 @@ Perfect for tracking your build size with gzip compression :heart:
 ## Getting started
 1. Install the extension
     ```bash
-    npm install ngstarter-gzip-tasks --save-dev
+    npm install @ngstarter/gzip-extension --save-dev
     ```
 
 2. Require the extension in any tasks file, for example in `tasks/serve.js`
     ```js
-    require('ngstarter-gzip-tasks');
+    require('@ngstarter/gzip-extension');
     ```
 
 3. Try running
