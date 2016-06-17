@@ -1,6 +1,6 @@
 {
   "name": "@ngstarter/gzip-extension",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Gzipped build and serve for your Angular 2 Starter",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ngstarter/gzip-extension#readme",
   "dependencies": {
-    "gulp-gzip": "^1.3.0",
+    "gulp-gzip": "^1.4.0",
     "connect-gzip-static": "^1.0.0"
   },
   "peerDependencies": {

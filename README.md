@@ -13,7 +13,11 @@ Perfect for tracking your build size with gzip compression :heart:
 
 2. Require the extension in any tasks file, for example in `tasks/serve.js`
     ```js
-    require('@ngstarter/gzip-extension');
+    // Load gulp config
+    var config = require('../config')();
+
+    // Load extension with config
+    require('@ngstarter/gzip-extension')(config);
     ```
 
 3. Try running
