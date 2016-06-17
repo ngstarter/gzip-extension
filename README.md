@@ -3,7 +3,7 @@ Gzipped build and serve for your Angular 2 Starter
 
 Perfect for tracking your build size with gzip compression :heart:
 
-[![npm version](https://badge.fury.io/js/ngstarter-gzip-tasks.svg)](https://badge.fury.io/js/ngstarter-gzip-tasks)
+[![npm version](https://badge.fury.io/js/%40ngstarter%2Fgzip-extension.svg)](https://badge.fury.io/js/%40ngstarter%2Fgzip-extension)
 
 ## Getting started
 1. Install the extension
